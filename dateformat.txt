@@ -1,0 +1,4 @@
+function formatDate(obDatePassed)
+{
+ return (obDatePassed.getMonth()+1) +"/"+ obDatePassed.getDate() + "/" +  obDatePassed.getFullYear() + " " + obDatePassed.getHours() +" : " + obDatePassed.getMinutes();
+}
