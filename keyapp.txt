@@ -1,1 +1,21 @@
 AIzaSyAPYY7gSWKG0LJBJ5SMFfiG24W8Px3NVaU
+
+Reference link - http://androidexample.com/Android_Push_Notifications_using_Google_Cloud_Messaging_GCM/index.php?view=article_discription&aid=119&aaid=139
+1.	Login details
+a.	Userid – caomcoe@gmail.com
+b.	Pwd – verizon@123
+2.	Project/Sender ID:-
+168350596744
+3.	Dashboard URl to Project :-
+
+https://code.google.com/apis/console/b/0/?noredirect#project:168350596744:stats
+4.	Key for server apps (with IP locking)
+
+Api Url - https://android.googleapis.com/gcm/send
+
+API key:	AIzaSyAPYY7gSWKG0LJBJ5SMFfiG24W8Px3NVaU
+IPs:	Any IP allowed
+Activated on:	Jun 12, 2015 4:20 AM
+Activated by:	caomcoe@gmail.com – you
+
+sDv = "APA91bErlB-BswQD4uSN4odLrVG0X_vGX9fzOxzSXiT5b8CqkV9FoIMLGooBhYgqgFZxkZ58Es9BtAYsx2ioENfAFDXLsLtH5u8v3ZdEL0pyGfh_P-WOSn127MH-gfmWZoIf7p23HloLikXg5YclF9RCzflSKg0vZw";
